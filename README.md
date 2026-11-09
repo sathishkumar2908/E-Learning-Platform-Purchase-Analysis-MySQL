@@ -159,8 +159,10 @@ By applying SQL JOINs, aggregate functions, grouping, filtering, and analytical 
 The analysis helps the management team understand purchasing behaviour and make data-driven business decisions.
 
 Project Type: Data Analytics | SQL Project
+
 Domain: E-Learning / Online Education
+
 Tool: MySQL Workbench
+
 Author: Sathish Kumar
-- Database generated INR 4,500 in revenue.
-- SQL for Beginners, Python Programming, and Power BI Dashboard each recorded a
+
