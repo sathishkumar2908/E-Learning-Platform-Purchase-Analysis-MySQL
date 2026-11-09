@@ -127,4 +127,40 @@ Based on the sample dataset:
 - Data Analytics generated the highest revenue of INR 13,000.
 - Programming generated INR 7,500 in revenue.
 - Database generated INR 4,500 in revenue.
+- SQL for Beginners, Python Programming, and Power BI Dashboard each recorded a total quantity sold of 3.
+- Java Programming received no purchases in the sample data.
+
+  Business Recommendations
+
+Focus marketing campaigns on the Data Analytics category because it generated the highest sample revenue.
+
+Improve the visibility and promotion of Java Programming to encourage purchases.
+
+Recommend complementary courses to learners based on their previous purchases.
+
+Use purchasing patterns to develop targeted marketing strategies.
+
+Monitor course demand and category-wise revenue to support business decisions.
+
+Project Files
+
+E-Learning-Platform-Purchase-Analysis-MySQL/
+│
+├── E-Learning-Platform-Purchase-Analysis.sql
+├── Elearning_MySQL_Project_Summary.pdf
+└── README.md
+
+Conclusion
+
+This project demonstrates how MySQL can be used to design relational databases and analyze e-learning platform purchase data.
+
+By applying SQL JOINs, aggregate functions, grouping, filtering, and analytical queries, meaningful insights were obtained about learner spending, course popularity, and category-wise revenue.
+
+The analysis helps the management team understand purchasing behaviour and make data-driven business decisions.
+
+Project Type: Data Analytics | SQL Project
+Domain: E-Learning / Online Education
+Tool: MySQL Workbench
+Author: Sathish Kumar
+- Database generated INR 4,500 in revenue.
 - SQL for Beginners, Python Programming, and Power BI Dashboard each recorded a
